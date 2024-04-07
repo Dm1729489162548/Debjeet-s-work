@@ -1,0 +1,28 @@
+ /* #heading1 {
+    color:blue;
+    background: yellow;
+    text-decoration: dashed;
+    text-align: center;
+}   
+#heading2{
+    color:skyblue;
+    background:yellow;
+    text-decoration:darkblue;
+}
+body{
+    background-color: rgb(240,50,183);
+}
+
+.others-class{
+    color:rgb(248,168,0);
+    text-shadow: 0cm;
+    background:blue;
+}  */
+.Box{
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    margin:5px;
+    text-align:center;
+    background-color: aquamarine;
+}
